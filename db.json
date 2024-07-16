@@ -1,0 +1,25 @@
+{
+  "quotes": [
+    {
+      "content": "Eighty percent of success is showing up.",
+      "author": "Woody Allen",
+      "template": "template2",
+      "id": 1,
+      "favorite": false
+    },
+    {
+      "content": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "author": "Thomas Edison",
+      "template": "template3",
+      "id": 2,
+      "favorite": false
+    },
+    {
+      "content": "I think therefore I am.",
+      "author": "Descartes",
+      "template": "template1",
+      "id": 3,
+      "favorite": true
+    }
+  ]
+}
